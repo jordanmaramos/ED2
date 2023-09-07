@@ -14,3 +14,4 @@ Projeto destinado à disciplina de Algoritmos e Estrutura de Dados II
 * Have the latest version of python installed 
 * Run the application and open console to interact
 
+# [Vídeo Explicativo](https://bit.ly/U1T2VideoLink)
