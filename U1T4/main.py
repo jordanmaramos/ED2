@@ -4,7 +4,7 @@ inventory = Inventory('laptops.csv')
 
 start = input("Deseja buscar algum modelo (S ou N)? ")
 if start == "N" or start == "n":
-    print("Certo! Saindo.")
+    print("Certo! Saindo...")
 
 while start == "S" or start == "s":
     p1 = input("Como deseja buscar? \n1 - Por faixa de preço (em euros); \n2 - O mais barato por RAM e memória\nR: ")
