@@ -20,10 +20,10 @@ a semelhança considerada é o grau do nó.
 
 ### Requisitos
 
-- [Requisito 2](https://github.com/jordanmaramos/ED2/blob/main/U2T2/second_requirement.md)
+- [Requisito 2](https://github.com/jordanmaramos/ED2/tree/main/U2T2/requisito2)
 
-- [Requisito 3](https://github.com/jordanmaramos/ED2/blob/main/U2T2/third_requirement.md)
+- [Requisito 3](https://github.com/jordanmaramos/ED2/tree/main/U2T2/requisito3)
 
-### Desenvolvedor
+### Aluno
 
 Jordan Marques de Almeida Ramos 
