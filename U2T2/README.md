@@ -19,9 +19,9 @@ a semelhança considerada é o grau do nó.
 
 ### Requisitos
 
-- [Requisito 2](U2T2/second_requirement.py)
+- [Requisito 2]([U2T2/second_requirement.py](https://github.com/jordanmaramos/ED2/blob/main/U2T2/second_requirement.md))
 
-- [Requisito 3](U2T2/third_requirement.md)
+- [Requisito 3]([U2T2/third_requirement.md](https://github.com/jordanmaramos/ED2/blob/main/U2T2/third_requirement.md)https://github.com/jordanmaramos/ED2/blob/main/U2T2/third_requirement.md)
 
 ### Desenvolvedor
 
