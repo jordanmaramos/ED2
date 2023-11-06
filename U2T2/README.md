@@ -1,5 +1,7 @@
 # U2T2 - Small Worlds Project
 
+[Vídeo Explicativo](https://drive.google.com/file/d/1gWtH_WCbNr-OiuQaFCqV3_v9u2rfnCnA/view?usp=sharing)
+
 Este repositório contém os entregáveis referente à atividade 2 da unidade 2 da disciplina de Algoritmos e Estrutura de Dados 2, 
 em que constam resultados e análises da assortatividade de cinco redes de grafos diferentes. 
 
@@ -15,7 +17,6 @@ semelhantes a eles de alguma forma. Em termos de redes sociais, por exemplo, uma
 que pessoas tendem a se relacionar com outras que têm um número semelhante de conexões (amigos). Isso é muitas 
 vezes referido como o coeficiente de assortatividade ou coeficiente de correlação de grau, especialmente quando 
 a semelhança considerada é o grau do nó.
-
 
 ### Requisitos
 
